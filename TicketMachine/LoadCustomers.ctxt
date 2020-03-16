@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=
+comment0.target=CustomerList\ createCustomerList()
+comment1.params=FirstName\ SurName\ UserName\ Password
+comment1.target=void\ addCustomer(java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String)
+comment2.params=FirstName
+comment2.target=void\ removeCustomerbyFirstName(java.lang.String)
+numComments=3

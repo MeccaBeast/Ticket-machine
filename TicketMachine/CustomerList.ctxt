@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=CustomerList()
+comment1.params=newCustomer
+comment1.target=void\ registrate(Customer)
+comment2.params=Surname
+comment2.target=void\ removeCustomerbySurname(java.lang.String)
+comment3.params=
+comment3.target=int\ numberOfCustomers()
+comment4.params=Username
+comment4.target=void\ customerDetail(java.lang.String)
+comment5.params=Username\ Password
+comment5.target=Customer\ login_check(java.lang.String,\ java.lang.String)
+numComments=6

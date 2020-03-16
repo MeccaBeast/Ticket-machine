@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=
+comment0.target=java.util.ArrayList\ createJourneyList()
+comment1.params=seatsAvailable\ journeyPrice\ journeyDuration\ journeyDate\ journeyFrom\ journeyTo
+comment1.target=void\ addJourney(int,\ double,\ int,\ java.lang.String,\ java.lang.String,\ java.lang.String)
+comment2.params=journeyID
+comment2.target=void\ removeJourneybyID(int)
+numComments=3
